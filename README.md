@@ -32,7 +32,7 @@ yps.txt - Yapese
 
 Starting the program
 
-     >java -cp langdetect.detectMyLanguage
+     >java -jar LanguageDetector.jar
      Do you wish to train your model first (y/n)?
      y
      Language profiles are saved
