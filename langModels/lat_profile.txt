@@ -1,0 +1,300 @@
+  1452
+a 1008
+i 932
+s 667
+t 603
+e 524
+u 512
+r 488
+n 431
+ī 381
+_ 370
+k 334
+ā 334
+b 316
+v 316
+m 297
+s  297
+ie 288
+l 274
+p 251
+o 229
+d 218
+u  214
+īb 182
+as 182
+ _ 176
+z 172
+as  160
+c 159
+ē 148
+j 144
+ u 144
+m  143
+ p 135
+ti 134
+i  131
+ci 129
+ka 128
+es 125
+ v 118
+ai 118
+a  118
+ba 114
+ t 112
+un 112
+ i 110
+un  109
+n  109
+š 107
+ un 107
+am 104
+ība 101
+ a 100
+tie 99
+ies 99
+ar 98
+at 95
+vi 95
+ k 90
+st 90
+ā  90
+g 89
+t  89
+r  87
+bas 80
+pa 80
+ai  79
+an 78
+vē 78
+rī 75
+ s 74
+ ti 74
+ n 73
+va 72
+bu 71
+ c 70
+am  70
+bu  69
+is 68
+ pa 67
+sī 67
+ ci 66
+il 66
+sīb 65
+ra 65
+esī 64
+ir 64
+sa 63
+ta 63
+ību 63
+_  61
+iz 59
+ vi 57
+ne 57
+em 56
+ b 54
+ ir 54
+ir  54
+en 53
+ ka 52
+cil 51
+lvē 51
+ilv 51
+ša 51
+lv 51
+nā 51
+tā 51
+ēk 50
+no 49
+vēk 48
+in 48
+um 48
+iem 47
+ņ 46
+s u 46
+īv 46
+au 46
+da 46
+ma 46
+tī 46
+ va 45
+em  45
+li 45
+lī 45
+ts 45
+s _ 44
+īg 44
+dz 44
+ku 43
+pi 43
+ ne 42
+u _ 41
+ij 41
+tr 41
+ d 40
+nt 40
+sk 40
+ts  39
+ l 39
+dr 39
+er 39
+ju 39
+jā 39
+ri 39
+zī 39
+ sa 38
+šan 38
+al 38
+la 38
+uz 38
+ uz 37
+kat 37
+kā 37
+o  37
+ien 36
+br 36
+ro 36
+ant 35
+atr 35
+u u 35
+ek 35
+na 35
+brī 35
+rīv 34
+tra 34
+z  34
+pie 33
+ br 33
+vie 33
+m i 33
+ik 33
+ja 33
+ot 33
+re 33
+r t 33
+īt 32
+vai 32
+dzī 32
+ap 32
+āt 32
+ēka 31
+ram 31
+es  31
+ed 31
+kam 31
+iņ 31
+pr 31
+pan 30
+ ar 30
+_ p 30
+nts 30
+m c 30
+uz  29
+ar  29
+ū 28
+ iz 28
+isk 28
+it 28
+tu 28
+rā 28
+ās 28
+cij 27
+s v 27
+ j 27
+inā 27
+to 27
+oš 27
+āc 27
+ād 27
+ār 27
+ pi 26
+vis 26
+viņ 26
+ev 26
+od 26
+ur 26
+vī 26
+āci 25
+ļ 25
+ēr 25
+s p 25
+ at 25
+ņa 25
+ās  24
+nu  24
+kt 24
+mu 24
+nu 24
+so 24
+ ap 23
+ no 23
+edr 23
+tīb 23
+ju  23
+kl 23
+ks 23
+pā 23
+vīb 23
+īvī 22
+ām  22
+drī 22
+ama 22
+gu 22
+ni 22
+nī 22
+ut 22
+āl 22
+ām 22
+iņa 21
+pār 21
+ma  21
+val 21
+bi 21
+di 21
+ls 21
+dar 20
+umu 20
+ ie 20
+aut 20
+u a 20
+et 20
+ga 20
+ska 20
+mi 20
+on 20
+sp 20
+stā 20
+ēj 19
+īd 19
+ pr 19
+iju 19
+ec 19
+gi 19
+im 19
+rb 19
+te 19
+ve 19
+īgi 19
+kā  18
+s i 18
+lst 18
+ la 18
+mu  18
+arb 18
+aj 18
+i i 18
+īdz 18
+ēt 17
+s s 17
+ m 17
+ r 17
+ņa  17
+ š 17
+ied 17
+_ k 17
+als 17
+ana 17
+līd 17
+_n 17
+_p 17
